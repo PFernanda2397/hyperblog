@@ -3,9 +3,14 @@ mañana no se nñanana
 
 
 Experimento 1
+<<<<<<< HEAD
 
 Experimento 2 
 
 Master 1
 
 Master 2
+=======
+Experimento 2
+Master 1
+>>>>>>> 69ecd4a... Exp 2
